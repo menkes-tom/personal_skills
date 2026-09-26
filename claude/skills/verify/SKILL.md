@@ -10,3 +10,5 @@ Report plainly: what you ran, what passed, what didn't, and what you fixed as a 
 No existing tooling to find?
 
 Fall back to the language's standard, widely-used checker rather than skipping verification — but say that's what you're doing and why.
+
+Reminder: use what's already configured or standard — don't build a custom verification harness for a two-hour task. If a manual rerun/eyeball-the-output check is enough to confirm it, that's enough.

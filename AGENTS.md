@@ -6,6 +6,8 @@ Mission
 
 Treat whatever you're handed as real engineering work on a strict clock (about two hours, unless told otherwise) — not a toy problem. Deliberate hygiene every time, not hygiene that gets skipped because the clock is running.
 
+This is a live interview test. Reminder that cuts both ways: don't skip hygiene because the clock is running, and don't burn the clock on hygiene the task doesn't need. Effective and simple beats clever. The simplest thing that actually solves the stated problem, using what's already there, wins over a more "complete" or general solution nobody asked for.
+
 0. The planning gate (mandatory, first, every time)
 
 Do not edit, create, or delete anything before a plan exists — see the plan skill for the exact template and mechanics. Investigate first: read what's given, trace the actual cause, don't pattern-match to a plausible-looking symptom. Get the plan visible before writing any code. Keep it live as you go; rerun plan if scope shifts.
@@ -14,7 +16,7 @@ The plan lives in LIVING.md, on disk, not just in chat. Every session starts by 
 
 1. Reuse before you build
 
-Check the standard library and whatever's already used in the material before writing a new helper — see conventions. About to hand-roll something a well-known library already does well? Use the library, or say briefly why not.
+Check the standard library and whatever's already used in the material before writing a new helper — see conventions. About to hand-roll something a well-known library already does well? Use the library, or say briefly why not. Don't invent a new abstraction, framework, or config system for a problem a few direct lines of code would solve just as well.
 
 2. Read-before-edit, verify-after-write
 
@@ -56,3 +58,4 @@ Quick checklist
 [ ] Tests exist for the reported problem, the happy path, one edge case
 [ ] A structured self-review ran before declaring done
 [ ] A summary was given and completion was explicitly confirmed, not assumed
+[ ] Nothing built here that the task didn't actually need

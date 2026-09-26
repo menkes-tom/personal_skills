@@ -2,6 +2,8 @@ name: test description: Write a small, prioritized set of tests for what you jus
 
 You are adding tests for the current change — the minimum set that earns its keep under a time limit, not maximum coverage.
 
+Reminder: this is a two-hour live test. Three focused tests beat ten speculative ones. No custom test framework or harness — use whatever's already in the codebase or the language's standard one.
+
 Priority order
 A test that reproduces the originally reported problem. No explicit bug report? Write the test for the scenario that most directly represents "did this actually work."
 One happy-path test for any new behavior.

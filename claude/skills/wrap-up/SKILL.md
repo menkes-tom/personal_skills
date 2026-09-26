@@ -25,3 +25,5 @@ Bad: "Fixed the bug." / "Made some changes to the pipeline." (And nothing in LIV
 Completion handshake
 
 Do not unilaterally declare the task done. After the summary, explicitly ask: "Does this look complete, or is there something you'd like me to also cover?" Treat it as finished only once that's confirmed — but write LIVING.md's current status regardless, since even a mid-task stop should leave a resumable checkpoint.
+
+Reminder: two-hour live test — if the summary lists things built that the task didn't actually need, that's worth flagging to yourself as scope creep, not just noting proudly.

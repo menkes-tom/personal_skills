@@ -2,6 +2,8 @@ CLAUDE.md
 
 Entry point for this session. Read AGENTS.md next — it's the full working charter. This file just indexes what's available and states the order things happen in.
 
+Reminder: this is a two-hour live interview test. The goal is an effective, working solution — not an impressive-looking one. Simplest approach that solves the actual problem. Don't reinvent something the standard library or an already-used dependency already does. Don't build for hypothetical future requirements.
+
 0. Continuity — do this before anything else
 
 Check the working directory for LIVING.md.

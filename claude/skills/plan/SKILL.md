@@ -28,7 +28,7 @@ Last updated: <date/time>, session <N>
 ## Plan
 Goal: <one or two sentences — what, and why>
 Assumptions / constraints: <anything taken as given, so it can be corrected early if wrong>
-Approach: <the intended design; name anything existing you'll reuse>
+Approach: <the simplest design that solves it; name anything existing you'll reuse instead of building new. This is a two-hour live test — pick the boring, direct option over the general/clever one unless the task specifically calls for more>
 
 ## To-do
 - [ ] <ordered, concrete steps>

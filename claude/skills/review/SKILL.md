@@ -14,6 +14,8 @@ Red flags
 Commented-out code with no explanation
 A fix that handles only the exact reported case and nothing adjacent
 Anything claimed to work that wasn't actually rerun
+Unnecessary abstraction, config, or generality the task never asked for — over-engineering is a defect here, same as under-engineering
+A dependency, framework, or pattern reinvented when the standard library or an existing one already did it
 Output format
 
 Review summary

@@ -15,3 +15,5 @@ Skim two or three representative existing files — not the whole codebase. One 
 Output
 
 A short list: "this codebase does X for errors, Y for logging, already uses library Z for retries." Feed this straight into the plan skill's Approach section.
+
+Reminder: the point of this step is to avoid inventing something that already exists here or in the standard library — not to justify a bigger design. Two-hour live test: a few minutes of skimming, then move.

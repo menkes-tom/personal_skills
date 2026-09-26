@@ -2,6 +2,8 @@
 
 Quick reference for running the interview session smoothly. Keep this open in a second window.
 
+Reminder: two-hour live test — use these to stay fast and unstuck, not to add ceremony. If a command isn't saving you time right now, skip it.
+
 ## Starting a session
 
 | Do this | Command |
